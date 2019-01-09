@@ -1,6 +1,8 @@
 # PowershellProfileMac
 Powershell profile mimicking Mac's default terminal color scheme and prompt text.
 
+![picture alt](https://github.com/jlauerswi/PowershellProfileMac/blob/master/sample.png "Sample")
+
 # Directions #
 1. To use, open powershell and type "$Profile", to get the path of you profile. (Should be something like C:\Users\smithb\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1)
 2. Depending on whether the file exists...
