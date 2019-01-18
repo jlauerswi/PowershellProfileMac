@@ -1,5 +1,5 @@
 # PowershellProfileMac
-Powershell profile mimicking Mac's default terminal color scheme and prompt text.
+Powershell profile mimicking Mac's default terminal color scheme and prompt text. This might seem strange, but I used a Mac in school and loved the terminal's color scheme and when I started using Windows for work, I Powershell's default color scheme hurt my eyes.
 
 ![picture alt](https://github.com/jlauerswi/PowershellProfileMac/blob/master/sample.png "Sample")
 
